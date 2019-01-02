@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"github.com/nmrshll/google-photos-api-client-go/gphotoslib"
+	gphotoslib "github.com/nmrshll/google-photos-api-client-go/lib-gphotos"
 	gphotosclient "github.com/nmrshll/google-photos-api-client-go/noserver-gphotosclient"
 )
 
